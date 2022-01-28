@@ -7,7 +7,7 @@ php 7.2
 Download atau clone project dari github:
 
 ```sh
-git clone
+git clone https://github.com/chaubatkunda/nomans-vacation.git
 ```
 
 ```sh
